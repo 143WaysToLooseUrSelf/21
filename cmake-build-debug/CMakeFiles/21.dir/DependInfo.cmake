@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/seven/Desktop/21/Clinic/Information/Shedule/schedule.cpp" "CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj" "gcc" "CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj.d"
-  "C:/Users/seven/Desktop/21/Clinic/Information/days.cpp" "CMakeFiles/21.dir/Clinic/Information/days.cpp.obj" "gcc" "CMakeFiles/21.dir/Clinic/Information/days.cpp.obj.d"
+  "C:/Users/seven/Desktop/21/Clinic/Info/Shedule/schedule.cpp" "CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj" "gcc" "CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj.d"
+  "C:/Users/seven/Desktop/21/Clinic/Info/days.cpp" "CMakeFiles/21.dir/Clinic/Info/days.cpp.obj" "gcc" "CMakeFiles/21.dir/Clinic/Info/days.cpp.obj.d"
   "C:/Users/seven/Desktop/21/Clinic/clinic.cpp" "CMakeFiles/21.dir/Clinic/clinic.cpp.obj" "gcc" "CMakeFiles/21.dir/Clinic/clinic.cpp.obj.d"
   "C:/Users/seven/Desktop/21/Person/Employee/director.cpp" "CMakeFiles/21.dir/Person/Employee/director.cpp.obj" "gcc" "CMakeFiles/21.dir/Person/Employee/director.cpp.obj.d"
   "C:/Users/seven/Desktop/21/Person/Employee/doctor.cpp" "CMakeFiles/21.dir/Person/Employee/doctor.cpp.obj" "gcc" "CMakeFiles/21.dir/Person/Employee/doctor.cpp.obj.d"

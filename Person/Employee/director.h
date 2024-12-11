@@ -1,9 +1,8 @@
 #pragma once
-
 #include "doctor.h"
 #include "security.h"
 
-class Director : public Doctor, Security { // Множественное наследование
+class Director : public Security, Doctor { // Множественное наследование
 private:
     double _timeOfLead;
 

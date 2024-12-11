@@ -124,19 +124,19 @@ CMakeFiles/21.dir/Person/Employee/security.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/21.dir/Person/Employee/security.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\seven\Desktop\21\Person\Employee\security.cpp -o CMakeFiles\21.dir\Person\Employee\security.cpp.s
 
-CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj: CMakeFiles/21.dir/flags.make
-CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj: C:/Users/seven/Desktop/21/Clinic/Information/Shedule/schedule.cpp
-CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj: CMakeFiles/21.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\seven\Desktop\21\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj -MF CMakeFiles\21.dir\Clinic\Information\Shedule\schedule.cpp.obj.d -o CMakeFiles\21.dir\Clinic\Information\Shedule\schedule.cpp.obj -c C:\Users\seven\Desktop\21\Clinic\Information\Shedule\schedule.cpp
+CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj: CMakeFiles/21.dir/flags.make
+CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj: C:/Users/seven/Desktop/21/Clinic/Info/Shedule/schedule.cpp
+CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj: CMakeFiles/21.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\seven\Desktop\21\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj -MF CMakeFiles\21.dir\Clinic\Info\Shedule\schedule.cpp.obj.d -o CMakeFiles\21.dir\Clinic\Info\Shedule\schedule.cpp.obj -c C:\Users\seven\Desktop\21\Clinic\Info\Shedule\schedule.cpp
 
-CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\seven\Desktop\21\Clinic\Information\Shedule\schedule.cpp > CMakeFiles\21.dir\Clinic\Information\Shedule\schedule.cpp.i
+CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\seven\Desktop\21\Clinic\Info\Shedule\schedule.cpp > CMakeFiles\21.dir\Clinic\Info\Shedule\schedule.cpp.i
 
-CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\seven\Desktop\21\Clinic\Information\Shedule\schedule.cpp -o CMakeFiles\21.dir\Clinic\Information\Shedule\schedule.cpp.s
+CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\seven\Desktop\21\Clinic\Info\Shedule\schedule.cpp -o CMakeFiles\21.dir\Clinic\Info\Shedule\schedule.cpp.s
 
 CMakeFiles/21.dir/Clinic/clinic.cpp.obj: CMakeFiles/21.dir/flags.make
 CMakeFiles/21.dir/Clinic/clinic.cpp.obj: C:/Users/seven/Desktop/21/Clinic/clinic.cpp
@@ -152,19 +152,19 @@ CMakeFiles/21.dir/Clinic/clinic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/21.dir/Clinic/clinic.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\seven\Desktop\21\Clinic\clinic.cpp -o CMakeFiles\21.dir\Clinic\clinic.cpp.s
 
-CMakeFiles/21.dir/Clinic/Information/days.cpp.obj: CMakeFiles/21.dir/flags.make
-CMakeFiles/21.dir/Clinic/Information/days.cpp.obj: C:/Users/seven/Desktop/21/Clinic/Information/days.cpp
-CMakeFiles/21.dir/Clinic/Information/days.cpp.obj: CMakeFiles/21.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\seven\Desktop\21\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/21.dir/Clinic/Information/days.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/21.dir/Clinic/Information/days.cpp.obj -MF CMakeFiles\21.dir\Clinic\Information\days.cpp.obj.d -o CMakeFiles\21.dir\Clinic\Information\days.cpp.obj -c C:\Users\seven\Desktop\21\Clinic\Information\days.cpp
+CMakeFiles/21.dir/Clinic/Info/days.cpp.obj: CMakeFiles/21.dir/flags.make
+CMakeFiles/21.dir/Clinic/Info/days.cpp.obj: C:/Users/seven/Desktop/21/Clinic/Info/days.cpp
+CMakeFiles/21.dir/Clinic/Info/days.cpp.obj: CMakeFiles/21.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\seven\Desktop\21\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/21.dir/Clinic/Info/days.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/21.dir/Clinic/Info/days.cpp.obj -MF CMakeFiles\21.dir\Clinic\Info\days.cpp.obj.d -o CMakeFiles\21.dir\Clinic\Info\days.cpp.obj -c C:\Users\seven\Desktop\21\Clinic\Info\days.cpp
 
-CMakeFiles/21.dir/Clinic/Information/days.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/21.dir/Clinic/Information/days.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\seven\Desktop\21\Clinic\Information\days.cpp > CMakeFiles\21.dir\Clinic\Information\days.cpp.i
+CMakeFiles/21.dir/Clinic/Info/days.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/21.dir/Clinic/Info/days.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\seven\Desktop\21\Clinic\Info\days.cpp > CMakeFiles\21.dir\Clinic\Info\days.cpp.i
 
-CMakeFiles/21.dir/Clinic/Information/days.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/21.dir/Clinic/Information/days.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\seven\Desktop\21\Clinic\Information\days.cpp -o CMakeFiles\21.dir\Clinic\Information\days.cpp.s
+CMakeFiles/21.dir/Clinic/Info/days.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/21.dir/Clinic/Info/days.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\seven\Desktop\21\Clinic\Info\days.cpp -o CMakeFiles\21.dir\Clinic\Info\days.cpp.s
 
 CMakeFiles/21.dir/Person/Employee/doctor.cpp.obj: CMakeFiles/21.dir/flags.make
 CMakeFiles/21.dir/Person/Employee/doctor.cpp.obj: C:/Users/seven/Desktop/21/Person/Employee/doctor.cpp
@@ -200,9 +200,9 @@ CMakeFiles/21.dir/Person/Employee/director.cpp.s: cmake_force
 "CMakeFiles/21.dir/Person/person.cpp.obj" \
 "CMakeFiles/21.dir/Person/Patient/patient.cpp.obj" \
 "CMakeFiles/21.dir/Person/Employee/security.cpp.obj" \
-"CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj" \
+"CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj" \
 "CMakeFiles/21.dir/Clinic/clinic.cpp.obj" \
-"CMakeFiles/21.dir/Clinic/Information/days.cpp.obj" \
+"CMakeFiles/21.dir/Clinic/Info/days.cpp.obj" \
 "CMakeFiles/21.dir/Person/Employee/doctor.cpp.obj" \
 "CMakeFiles/21.dir/Person/Employee/director.cpp.obj"
 
@@ -213,9 +213,9 @@ CMakeFiles/21.dir/Person/Employee/director.cpp.s: cmake_force
 21.exe: CMakeFiles/21.dir/Person/person.cpp.obj
 21.exe: CMakeFiles/21.dir/Person/Patient/patient.cpp.obj
 21.exe: CMakeFiles/21.dir/Person/Employee/security.cpp.obj
-21.exe: CMakeFiles/21.dir/Clinic/Information/Shedule/schedule.cpp.obj
+21.exe: CMakeFiles/21.dir/Clinic/Info/Shedule/schedule.cpp.obj
 21.exe: CMakeFiles/21.dir/Clinic/clinic.cpp.obj
-21.exe: CMakeFiles/21.dir/Clinic/Information/days.cpp.obj
+21.exe: CMakeFiles/21.dir/Clinic/Info/days.cpp.obj
 21.exe: CMakeFiles/21.dir/Person/Employee/doctor.cpp.obj
 21.exe: CMakeFiles/21.dir/Person/Employee/director.cpp.obj
 21.exe: CMakeFiles/21.dir/build.make
